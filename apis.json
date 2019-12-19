@@ -1,0 +1,40 @@
+{
+    "name": "Rss2Json",
+    "description": "Free online API to convert RSS to JSON",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28173-rss2json-com.jpg",
+    "tags": [
+        "conversions",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rss2json\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Rss2Json",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28173-rss2json-com.jpg",
+            "humanURL": "https:\/\/rss2json.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rss2json-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/rss2json"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/rss2json.com"
+        }
+    ]
+}
